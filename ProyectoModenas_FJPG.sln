@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoModenas_FJPG", "ProyectoModenas_FJPG\ProyectoModenas_FJPG.csproj", "{3B0B37EB-49BF-4794-913B-332581C07E91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B0B37EB-49BF-4794-913B-332581C07E91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B0B37EB-49BF-4794-913B-332581C07E91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B0B37EB-49BF-4794-913B-332581C07E91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B0B37EB-49BF-4794-913B-332581C07E91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65F4A5FD-9DB2-40B0-B294-AD6D373DE10B}
+	EndGlobalSection
+EndGlobal
